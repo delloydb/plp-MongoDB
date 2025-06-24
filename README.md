@@ -18,3 +18,10 @@ This project demonstrates the use of MongoDB for data storage and querying. The 
    ```bash
    mongod
    mongosh
+### 📸 **6. Screenshot**---
+![Uploading e573ac41ed17191a658e63657f40e54f1b0e3d17.jpg…]()
+
+Student - lloyd brown
+
+### 🚀 GitHub 
+
